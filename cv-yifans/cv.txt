@@ -18,8 +18,8 @@ accelerator. My Ph.D research work covers a range of issues: Large
 distributed control system, Data acquisition, storage, retrieval,
 visualization and mining, Interlocking and alarm for the control system,
 System redundancy and availability, Industrial real-time Ethernet.\
-I am looking for a postdoctoral or engineer's position in the particle
-accelerator laboratory.
+I want to apply for the position of **Controls Software Engineer** at
+SLAC.
 
 \cvsection{Education}
 University of Science and Technology of China Sep. 2010 - Jun. 2019
@@ -32,11 +32,12 @@ University of South China Sep. 2010 - Jun. 2014
 GPA: top1 / total 148
 
 \cvsection{Skills}
-C, Python, Java, Matlab, Shell, LabWindows/CVI, JavaScript, Scala, PyQt
+C, Python, Java, JavaScript, Matlab, Shell, LabWindows/CVI, Scala, PyQt
 
-Vue.js, Node.js, MongoDB, MySQL, SQLite, Express, jQuery
+HTML, CSS, Vue.js, Node.js, MongoDB, MySQL, SQLite, Express, jQuery,
+Element UI
 
-Hadoop, Spark, Impala, Kafka
+Hadoop, HDFS, Spark, Impala, Kafka
 
 EPICS (V3 & V4 & 7), Control System Studio, Phoebus, Archiver Appliance,
 BEAST, S7plc, StreamDevice, pyEPICS
@@ -121,6 +122,8 @@ Developed the EPICS driver to integrate openPOWERLINK into EPICS
 environment.
 
 \cvsection{Honors \& Awards}
+Academic Scholarship of USTC 2014 - 2017
+
 Shunde scholarship 2017
 
 China Undergraduate Mathematical Contest in Modeling 2013
