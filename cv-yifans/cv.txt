@@ -1,0 +1,209 @@
+---
+address: |
+     Controls Group, Machine Division\
+    National Synchrotron Radiation Laboratory (NSRL)\
+    University of Science and Technology of China (USTC)\
+    No. 42, Hezuohua South Road, Hefei, China, 230029
+---
+
+\makecvheader
+\makecvfooter
+  {\today}
+  {Yifan Song~~~·~~~Curriculum Vitae}
+  {\thepage}
+\cvsection{Summary}
+I am a 4th-year Doctoral student at NSRL\@USTC on the distributed
+control system for large scientific facilities, especially the particle
+accelerator. My Ph.D research work covers a range of issues: Large
+distributed control system, Data acquisition, storage, retrieval,
+visualization and mining, Interlocking and alarm for the control system,
+System redundancy and availability, Industrial real-time Ethernet.\
+I am looking for a postdoctoral or engineer's position in the particle
+accelerator laboratory.
+
+\cvsection{Education}
+University of Science and Technology of China Sep. 2010 - Jun. 2019
+\[anticipated\]
+
+GPA: top1 / total 60, supervisor: Prof. Gongfa Liu
+
+University of South China Sep. 2010 - Jun. 2014
+
+GPA: top1 / total 148
+
+\cvsection{Skills}
+C, Python, Java, Matlab, Shell, LabWindows/CVI, JavaScript, Scala, PyQt
+
+Vue.js, Node.js, MongoDB, MySQL, SQLite, Express, jQuery
+
+Hadoop, Spark, Impala, Kafka
+
+EPICS (V3 & V4 & 7), Control System Studio, Phoebus, Archiver Appliance,
+BEAST, S7plc, StreamDevice, pyEPICS
+
+Background knowledge in partical accelerator physics (Synchrotron &
+Linac), MATLAB Accelerator Toolbox
+
+Linux, Mac OS, Virtualization, Docker, openPOWERLINK, Git, LaTeX.
+
+\cvsection{Projects}
+Automatic data archiving and analysis system at Hefei Light Source
+(HLS-II) Nov. 2017 - PRESENT
+
+Local updated and deployed the Data archiving system based on the EPICS
+Archiver Appliance (AA) at HLS-II;
+
+Developed the Auto Configurator using C and Python to realize the
+automatic configuration of the archiving parameters;
+
+Developed the Single-Page-Application (SPA) based on Vue.js and
+Highcharts to realize the visualization of historical and real-time
+data;
+
+Constructed the Hadoop big-data platform using Cloudera CDH;
+
+Developed the ETL program from AA and RDB Channel Archiver using Sqoop
+and Spark.
+
+Interlocking and alarm system at HLS-II May. 2015 - PRESENT
+
+Designed, developed and deployed the configurable software interlock
+system for HLS-II
+
+Local updated and deployed the alarm system based on BEAST at HLS-II;
+
+Developed the alarm message push program via email & SMS using Java;
+
+Upgraded the alarm system using Phoebus this year;
+
+Developing the new message push programs via WeChat using Python at
+present.
+
+Control system design and construction for front-end devices of IRFEL
+Sep. 2017 - PRESENT
+
+Developed the IOC Applications for front-end devices of Infrared Free
+Electron Laser Light (IRFEL);
+
+Completed the controls of vacuum gauge, power supply, motor, etc;
+
+Designed and developed the operation interface using Phoebus and Display
+Builder;
+
+Constructed the server system based on VMware vSphere.
+
+High level control system for a coating equipment Jun. 2015 - May. 2016
+
+Developed the high level control system for a vacuum coating equipment
+using NI LabWindows/CVI;
+
+The control system includes the following functions: user rights
+division, rapid pumping and security protection for the vacuum system,
+flexible configuration for the complex process control, comprehensive
+process monitoring, comprehensive and detailed log system, an so on.;
+
+Developed the driver program for PCI-6221 card to realize wide range
+scanning of ion beam.
+
+Research about the Redundant EPICS IOC and industrial real-time Ethernet
+Feb. 2014 - Oct. 2016
+
+Designed and built a redundant platform in embedded Linux OS on both NI
+cRIO-9068 using the EPICS iocRedundancy toolkit;
+
+Designed and built a multilayer redundant control prototype system based
+on PROFINET;
+
+Built the prototype system of openPOWERLINK and tested its real-time
+performance;
+
+Developed the EPICS driver to integrate openPOWERLINK into EPICS
+environment.
+
+\cvsection{Honors \& Awards}
+Shunde scholarship 2017
+
+China Undergraduate Mathematical Contest in Modeling 2013
+
+\cvhonor
+     {Award}
+     {National Scholarship}
+     {}
+     {2013}
+\cvhonor
+     {Award}
+     {National Scholarship for Encouragement }
+     {}
+     {2011}
+\cvsection{Publications}
+**Yifan Song**, Gongfa Liu. et.al, Automatic data archiving and
+visualization at HLS-II, Nuclear Science and Techniques, 2018, 29(9):
+129
+
+Peng-quan Wen, **Yifan Song**, Bing Li, et al. Beam cleaning status in
+HLS-II storage ring. Nuclear Techniques, 2015,10:10-14 (in Chinese)
+
+Hao Kang, **Yifan Song**, Ke Xuan, Gong-fa Liu, Development of Control
+System for Vacuum Coating Equipment Based on Lab Windows/CVI, Vacuum,
+2016 (in Chinese)
+
+Zi-yu Huang, **Yifan Song**, Gongfa Liu, et. al, Design of Interlock
+System of FELiChEM, Atomic Energy Science and
+Technology,2017,51(09):1724-1728 (in Chinese)
+
+**Yifan Song**, Gongfa Liu, et.al, The Configurable Software Interlock
+System for HLS-II, Proceedings of IPAC2017, Copenhagen, Denmark
+
+Shuang Xu, **Yifan Song**, et.al, Control system design for front end
+devices of IRFEL, Proceedings of IPAC2018, Vancouver, British Columbia,
+Canada, 2018
+
+X.K. Sun, **Yifan. Song**, G. Liu, Distributed I/O System Based on
+Ethernet POWERLINK Under the EPICS Architecture,Vancouver, British
+Columbia, Canada, 2018
+
+X.K. Sun, **Yifan Song**, Gongfa Liu, et. al, Design and Implementation
+of HLS-II Constant Temperature Cooling Water Control System,
+2018(06):1139-1143 (in Chinese)
+
+Zi-yu Huang,**Yifan Song**, et. al, A Redundant EPICS Control System
+Based on PROFINET, Proceedings of ICALEPCS2015, Melbourne, Australia,
+2015
+
+Zi-yu Huang, **Yifan Song**, et al. The Interlock System of FELiChEM,
+Proceedings of ICALEPCS2017, Barcelona, Spain, 2017
+
+Zi-yu Huang, **Yifan Song**, G. Liu, EPICS Driver for Siemens CP1616
+Communication Module, Vancouver, British Columbia, Canada, 2018
+
+Yifan Song, Gongfa Liu, Design and construction of the data warehouse
+based on Hadoop ecosystem at HLS-II, Proceedings of PCaPAC 2018
+
+Yifan Song, Gongfa Liu, Data Archiving and visualization of IRFEL,
+Proceedings of PCaPAC 2018
+
+\cvsection{Academic Activities}
+12th International Workshop on Personal Computers and Particle
+Accelerator Controls THsinchu City, Taiwan, China Oct. 16 - Oct. 20 in
+2018
+
+Will make an oral report and a poster report at PCaPAC 2018
+
+8th International Particle Accelerator Conference Copenhagen, Denmark
+May. 14 - May. 19 in 2017
+
+Successfully achieved the student grant and made a poster report at IPAC
+2017
+
+the 9th OCPA Accelerator School Shanghai, China Jul. 26 - Aug. 4 in 2016
+
+Finished the courses of the ninth OCPA (the International Organization
+of Chinese Physicists and Astronomers) Accelerator School
+
+SAKURA Exchange Program in Science Tsukuba, Ibaraki Prefecture, Japan
+Jul. 5 - Jul. 14 in 2016
+
+Finished the courses of Japan-Asia Youth Exchange program in Science
+(SAKURA Exchange Program in Science) administered by KEK
+
+\newpage
